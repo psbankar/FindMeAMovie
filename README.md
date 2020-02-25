@@ -1,6 +1,6 @@
 # FindMeAMovie
 
-This app is developed using flutter and TMDB Api. You can find a movie by selecting required parameters.
+This app is developed using flutter and TMDB Api. You can find a movie by adjusting required parameters.
 
 ## Getting Started
 
